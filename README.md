@@ -1,6 +1,6 @@
-# TODO - Your title
+# The IETF Chair May Delegate
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "The IETF Chair May Delegate".
 
 * [Editor's Copy](https://larseggert.github.io/ietf-chair-may-delegate/#go.draft-eggert-ietf-chair-may-delegate.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-eggert-ietf-chair-may-delegate)
