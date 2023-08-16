@@ -52,8 +52,12 @@ Throughout the history of the IETF, the role of the IETF Chair has
 always been a filled by a single person. None of the foundational
 documents of the organization precisely define the role, but most are
 written with an understanding that the role is filled by a single
-person that is then tasked with with numerous responsibilities. Few
-documents explicitly say that the IETF Chair may delegate some of
+person that is then tasked with with numerous responsibilities. The
+expired Internet-Draft {{?I-D.carpenter-ietf-chair-tasks}} attempted
+to define the role of the IETF Chair more precisely, but was not
+taken forward.
+
+Few documents explicitly say that the IETF Chair may delegate some of
 these responsibilities. Over time, this has created a situation where
 even a full-time commitment by a single person may no longer be
 sufficient to fulfill all of these roles and duties.
@@ -92,7 +96,6 @@ the IETF Chair has delegated to which other Area Director, and for
 which time periods. This transparency can be guaranteed in a number
 of ways, such as through the IESG web site or public email. Such
 operational details are out of scope for this document.
-
 
 # Separating the IETF Chair and IESG Chair Roles
 
@@ -165,10 +168,10 @@ following updates to existing RFCs are proposed:
 1. Remove the sentence "The IETF Chair also chairs the IESG and is the
 AD for the General Area." from {{Section 3.3 of !RFC9281}}.
 
-1. Remove the clause "who is also the chair of the Internet
-Engineering Steering Group (IESG)", from the second sentence of
-{{Section 1 of !RFC2850}}. (This is also part of the suggestions in
-{{prop-gen-ad}}.)
+1. Change the clause "The IETF chair, who is also the chair of the
+Internet Engineering Steering Group (IESG)" in the second sentence
+of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
+(This is also part of the suggestions in {{prop-gen-ad}}.)
 
 1. Remove the clause "who also chairs the IESG" from the "Internet
 Engineering Steering Group (IESG)" glossary item in {{Section 4
@@ -243,7 +246,7 @@ Area Director:
 
 ## Proposal {#prop-gen-ad}
 
-In order to allow the IETF Chair to delegate the Area Director rols
+In order to allow the IETF Chair to delegate the Area Director role
 for the General Area, the following updates  to existing RFCs are
 suggested:
 
@@ -252,10 +255,10 @@ may also function as a General Area Director or may share that role
 with or delegate that role to another Area Director" in {{Section 2
 of !RFC3710}}.
 
-1. Remove the clause "who is also the chair of the Internet
-Engineering Steering Group (IESG)", from the second sentence of
-{{Section 1 of !RFC2850}}. (This is also part of the suggestions in
-{{prop-chair-roles}}.)
+1. Change the clause "The IETF chair, who is also the chair of the
+Internet Engineering Steering Group (IESG)" in the second sentence
+of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
+(This is also part of the suggestions in {{prop-chair-roles}}.)
 
 # Other Updates
 
@@ -341,4 +344,5 @@ This document has no IANA actions.
 
 These individuals suggested improvements to this document:
 
+- Brian Carpenter
 --- back
