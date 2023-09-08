@@ -1,7 +1,8 @@
 {
   "default": true,
-  "frontMatter": '((^---\s*$[\s\S]*?^---\s*.*)|(^\+\+\+\s*$[\s\S]*?^(\+\+\+|\.\.\.)\s*)|(^\{\s*$[\s\S]*?^\}\s*))(\r\n|\r|\n|$)',
+  "MD022": {"lines_below": [0, 1]},
   "MD024": {"siblings_only": true},
+  "MD025": false,
   "MD029": {"style": "one_or_ordered" },
   "MD031": false,
   "MD033": false,

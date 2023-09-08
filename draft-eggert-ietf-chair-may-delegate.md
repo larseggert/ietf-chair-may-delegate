@@ -1,20 +1,12 @@
 ---
 title: "The IETF Chair May Delegate"
-# abbrev: ""
 category: bcp
 updates: 2850, 3710, 4949, 8713, 9281
 docname: draft-eggert-ietf-chair-may-delegate-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-# number:
-# date:
+submissiontype: IETF
 consensus: true
 v: 3
-# area: ""
 workgroup: "IETF"
-# keyword:
-#  - next generation
-#  - unicorn
-#  - sparkling distributed ledger
 venue:
   group: "IETF"
   type: "Internet Engineering Task Force"
@@ -24,7 +16,6 @@ venue:
   latest: "https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-ietf-chair-may-delegate.html"
 
 author:
--
   name: Lars Eggert
   org: NetApp
   street: Stenbergintie 12 B
