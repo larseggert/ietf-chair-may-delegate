@@ -46,16 +46,16 @@ existing RFCs to enable that.
 
 --- middle
 
-# Introduction
+# Introduction {#intro}
 
 Throughout the history of the IETF, the role of the IETF Chair has
 always been filled by a single person. None of the foundational
 documents of the organization precisely define the role, but most are
 written with an understanding that the role is filled by a single
-person that is then tasked with numerous responsibilities. The
-expired Internet-Draft {{?I-D.carpenter-ietf-chair-tasks}} attempted
-to define the role of the IETF Chair more precisely but was not
-taken forward.
+person who is then tasked with numerous responsibilities. The expired
+Internet-Draft {{?I-D.carpenter-ietf-chair-tasks}} attempted to
+define the role of the IETF Chair more precisely but was not taken
+forward.
 
 Few documents explicitly say that the IETF Chair may delegate some of
 these responsibilities. Over time, this has created a situation where
@@ -84,18 +84,41 @@ IETF Chair from that of the IESG Chair, allowing another Area
 Director to take over the chairperson role of the IESG and its
 associated responsibilities. It also enables delegation of the IETF
 Chair's full IAB membership and delegation or sharing of the role of
-General Area Director.
+the General Area Director.
 
 Specifically, with these changes, it should be possible for the IESG
 to request the selection of a General Area Director who is not at the
-same time also IETF Chair, to whom the IETF Chair may then delegate
-some of their responsibilities, such as chairing the IESG.
+same time also the IETF Chair, to whom the IETF Chair may then
+delegate some of their responsibilities, such as chairing the IESG.
 
-It is important that there is community transparency about which roles
-the IETF Chair has delegated to which other Area Director, and for
-which time periods. This transparency can be guaranteed in several
-ways, such as through the IESG website or public email. Such
-operational details are out of scope of this document.
+There must be community transparency about which roles the IETF Chair
+has delegated to which other Area Director, and for which time. This
+transparency can be guaranteed in several ways, such as through the
+IESG website or public email. Such operational details are out of the
+scope of this document.
+
+# Emergency Stand-In
+
+This section describes who may stand in for the IETF Chair in case of
+emergency if they become unable to fulfill their duties.
+
+## Background
+
+As described in {{intro}}, the IETF Chair role is at the moment a
+single point of failure for the organization. In an emergency that
+incapacitated the IETF Chair, a recall petition followed by executing
+a "mid-term vacancy" replacement would need to be executed to name a
+new IETF Chair. This process will likely take several weeks at best,
+during which time there is no defined stand-in for the IETF Chair.
+
+## Proposal
+
+This document proposes that in the case the IETF Chair becomes
+incapacitated, the IAB Chair will automatically assume the role of
+the IETF Chair. If the IAB Chair is unable to do so, the IETF Chair
+role will automatically fall to the Chair of the IETF Administration
+LLC. As soon as the NomCom appoints a new IETF Chair this emergency
+delegation ends.
 
 # Separating the IETF Chair and IESG Chair Roles
 
@@ -112,7 +135,7 @@ terminology:
 > Area Director - The manager of an IETF Area.  The Area Directors
   along with the IETF Chair comprise the Internet Engineering
   Steering Group (IESG).
-
+>
 > Internet Engineering Steering Group (IESG) - A group comprised of
   the IETF Area Directors and the IETF Chair. (...)
 
@@ -343,5 +366,6 @@ This document has no IANA actions.
 
 These individuals suggested improvements to this document:
 
+- Alvaro Retana
 - Brian Carpenter
 --- back
