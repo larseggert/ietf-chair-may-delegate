@@ -1,6 +1,6 @@
 {
   "default": true,
-  "MD022": {"lines_below": [0, 1]},
+  "MD022": {"lines_above": 1, "lines_below": [0, 1]},
   "MD024": {"siblings_only": true},
   "MD025": false,
   "MD029": {"style": "one_or_ordered" },
