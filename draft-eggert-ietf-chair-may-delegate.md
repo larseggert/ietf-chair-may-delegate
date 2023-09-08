@@ -353,7 +353,6 @@ document.
 This document has no IANA actions.
 
 # Acknowledgments
-{:numbered="false"}
 
 These individuals suggested improvements to this document:
 
