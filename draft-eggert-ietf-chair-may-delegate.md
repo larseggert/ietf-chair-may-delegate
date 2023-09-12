@@ -103,6 +103,14 @@ a "mid-term vacancy" replacement would need to be executed to name a
 new IETF Chair. This process will likely take several weeks at best,
 during which time there is no defined stand-in for the IETF Chair.
 
+{:aside}
+> {{Section 7.1.1 of ?RFC8713}} currently prevents NomCom-ineligible IETF
+  participants from being signatories on recall petitions. This
+  includes anyone serving in a NomCom-selected role. This could be an
+  issue, since IESG, IAB and LLC Board members may be first-hand
+  witnesses to reasons that would merit an IETF Chair recall, but
+  they are currently unable to initiate one directly.
+
 ## Proposal
 
 This document proposes that in the case the IETF Chair becomes
