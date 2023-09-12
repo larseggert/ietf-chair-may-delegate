@@ -33,7 +33,8 @@ informative:
 
 This document proposes that the IETF Chair may delegate some of their
 responsibilities to other Area Directors, and updates several
-existing RFCs to enable that.
+existing RFCs to enable that. It also proposes a succession of
+emergency stand-ins in case the IETF Chair becomes incapacitated.
 
 --- middle
 
