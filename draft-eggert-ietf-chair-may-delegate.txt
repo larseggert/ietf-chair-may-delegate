@@ -4,10 +4,10 @@
 
 IETF                                                           L. Eggert
 Internet-Draft                                                    NetApp
-Updates: 2850, 3710, 4949, 8713, 9281 (if              12 September 2023
+Updates: 2850, 3710, 4949, 8713, 9281 (if               18 December 2023
          approved)                                                      
 Intended status: Best Current Practice                                  
-Expires: 15 March 2024
+Expires: 20 June 2024
 
 
                       The IETF Chair May Delegate
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 March 2024.
+   This Internet-Draft will expire on 20 June 2024.
 
 Copyright Notice
 
