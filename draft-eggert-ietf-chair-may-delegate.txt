@@ -3,7 +3,7 @@
 
 
 IETF                                                           L. Eggert
-Internet-Draft                                                    NetApp
+Internet-Draft                                                   Mozilla
 Updates: 2850, 3710, 4949, 8713, 9281 (if                   11 July 2024
          approved)                                                      
 Intended status: Best Current Practice                                  
@@ -510,7 +510,7 @@ Table of Contents
 Author's Address
 
    Lars Eggert
-   NetApp
+   Mozilla
    Stenbergintie 12 B
    FI-02700 Kauniainen
    Finland
