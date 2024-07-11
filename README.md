@@ -11,7 +11,7 @@ This is the working area for the individual Internet-Draft, "The IETF Chair May 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/larseggert/ietf-chair-may-delegate/blob//CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/larseggert/ietf-chair-may-delegate/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
