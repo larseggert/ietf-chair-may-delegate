@@ -29,3 +29,17 @@ technical issues needs to occur on the mailing list.
 
 You might also like to familiarize yourself with other
 [Internet Engineering Task Force documents](https://datatracker.ietf.org/ietf/ietf/documents/).
+## Working Group Information
+
+Discussion of this work occurs on the [IETF
+Internet Engineering Task Force mailing list](mailto:)
+([archive](),
+[subscribe]()).
+In addition to contributions in GitHub, you are encouraged to participate in
+discussions there.
+
+**Note**: Some working groups adopt a policy whereby substantive discussion of
+technical issues needs to occur on the mailing list.
+
+You might also like to familiarize yourself with other
+[Internet Engineering Task Force documents](https://datatracker.ietf.org/ietf/ietf/documents/).
