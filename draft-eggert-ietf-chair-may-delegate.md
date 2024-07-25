@@ -335,11 +335,13 @@ However, {{?RFC7154}} does not define any reactions the IETF Chair or
 the IESG should or may take, so the IETF Chair only acts as a
 recipient here.
 
-## Managing the Ombuds- and Moderator Teams
+## Appointments to the Ombuds-, Moderator and Last-Call List Moderation Teams
 
 The IETF Chair is tasked with managing the constituency of the
 ombudsteam {{?RFC7776}} and the moderator team of the IETF discussion
-list {{?RFC9245}}.
+list {{?RFC9245}}. They also select moderators for the Last-Call
+mailing list, and other lists with an organizational scope
+encompassing the entire IETF.
 
 This document does not suggest any changes here, but the community may
 consider allowing delegation of either of these responsibilities if
