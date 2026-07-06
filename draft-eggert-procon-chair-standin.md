@@ -1,5 +1,5 @@
 ---
-title: "The IETF Chair Has an Emergency Stand-In"
+title: "The IETF Chair Has a Stand-In"
 category: bcp
 docname: draft-eggert-procon-chair-standin-latest
 submissiontype: IETF
@@ -27,7 +27,7 @@ author:
 --- abstract
 
 This document defines a succession of
-emergency stand-ins in case the IETF Chair becomes incapacitated.
+stand-ins in case the IETF Chair becomes indisposed.
 
 --- middle
 
@@ -42,16 +42,16 @@ of !RFC8713}}, which can take up to six weeks to complete and only
 allows for the permanent replacement of the IETF Chair by another
 individual.)
 
-# Emergency Stand-In
+# Stand-In
 
-This section describes who may stand in for the IETF Chair in case of
-emergency if they become unable to fulfill their duties.
+This section describes who may stand in for the IETF Chair if they
+become indisposed.
 
 ## Background
 
 As described in {{intro}}, the IETF Chair role is at the moment a
-single point of failure for the organization. In an emergency that
-incapacitated the IETF Chair, a recall petition followed by executing
+single point of failure for the organization. If the IETF Chair
+becomes indisposed, a recall petition followed by executing
 a "mid-term vacancy" replacement would need to be executed to name a
 new IETF Chair. This process will likely take several weeks at best,
 during which time there is no defined stand-in for the IETF Chair.
@@ -69,10 +69,14 @@ during which time there is no defined stand-in for the IETF Chair.
 This document proposes that the IETF Chair, at their sole discretion,
 designates another Area Director as their stand-in immediately upon
 being seated and at anytime afterward in case changes need to be
-made. In case the IETF Chair becomes incapacitated, the stand-in will
+made. In case the IETF Chair becomes indisposed, the stand-in will
 automatically and immediately assume the role of the IETF Chair. This
-emergency delegation ends as soon as the NomCom appoints a new IETF
-Chair or the IETF Chair declares themselves fit for duty again.
+delegation ends as soon as the NomCom appoints a new IETF
+Chair or the IETF Chair is available again.
+
+If the IETF Chair's absence is expected to be short, the stand-in
+should choose to delay controversial decisions until the IETF Chair is
+available again, while allowing other business to proceed.
 
 # Security Considerations
 

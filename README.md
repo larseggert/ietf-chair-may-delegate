@@ -11,7 +11,7 @@ This is the working area for individual Internet-Drafts.
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-eggert-procon-chair-delegate)
 * [Compare Editor's Copy to Individual Draft](https://ietf-wg-procon.github.io/ietf-chair-may-delegate/#go.draft-eggert-procon-chair-delegate.diff)
 
-## The IETF Chair Has an Emergency Stand-In
+## The IETF Chair Has a Stand-In
 
 * [Editor's Copy](https://ietf-wg-procon.github.io/ietf-chair-may-delegate/#go.draft-eggert-procon-chair-standin.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-eggert-procon-chair-standin)
