@@ -4,10 +4,10 @@
 
 Process Document Consolidation                            L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
-Updates: 2850, 3710, 4949, 8713, 9281 (if                   29 June 2026
+Updates: 2850, 3710, 4949, 8713, 9281 (if                    6 July 2026
          approved)                                                      
 Intended status: Best Current Practice                                  
-Expires: 31 December 2026
+Expires: 7 January 2027
 
 
                       The IETF Chair May Delegate
@@ -51,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 December 2026.
+   This Internet-Draft will expire on 7 January 2027.
 
 Copyright Notice
 

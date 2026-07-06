@@ -4,8 +4,8 @@
 
 Process Document Consolidation                            L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
-Intended status: Best Current Practice                      29 June 2026
-Expires: 31 December 2026
+Intended status: Best Current Practice                       6 July 2026
+Expires: 7 January 2027
 
 
                 The IETF Chair Has an Emergency Stand-In
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 December 2026.
+   This Internet-Draft will expire on 7 January 2027.
 
 Copyright Notice
 
