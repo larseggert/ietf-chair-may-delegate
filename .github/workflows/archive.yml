@@ -22,7 +22,7 @@ jobs:
       pull-requests: read
     steps:
     - name: "Checkout"
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
 
     # Note: No caching for this build!
 
