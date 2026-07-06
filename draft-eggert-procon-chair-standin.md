@@ -67,7 +67,7 @@ during which time there is no defined stand-in for the IETF Chair.
 ## Delegation of the IETF Chair Role
 
 This document proposes that the IETF Chair, at their sole discretion,
-designates another Area Director as their stand-in immediately upon
+designates and announces another Area Director as their stand-in immediately upon
 being seated and at anytime afterward in case changes need to be
 made. In case the IETF Chair becomes indisposed, the stand-in will
 automatically and immediately assume the role of the IETF Chair. This
