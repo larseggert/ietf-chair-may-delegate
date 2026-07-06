@@ -1,0 +1,172 @@
+
+
+
+
+Process Document Consolidation                            L. Eggert, Ed.
+Internet-Draft                                                   Mozilla
+Intended status: Best Current Practice                       6 July 2026
+Expires: 7 January 2027
+
+
+                     The IETF Chair Has a Stand-In
+                draft-eggert-procon-chair-standin-latest
+
+Abstract
+
+   This document defines a succession of stand-ins in case the IETF
+   Chair becomes indisposed.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at https://ietf-wg-
+   procon.github.io/ietf-chair-standin/draft-eggert-procon-chair-
+   standin.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-eggert-procon-chair-standin/.
+
+   Discussion of this document takes place on the procon Working Group
+   mailing list (mailto:procon@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/procon/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/procon/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/ietf-wg-procon/ietf-chair-standin.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 7 January 2027.
+
+Copyright Notice
+
+   Copyright (c) 2026 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Stand-In
+     2.1.  Background
+     2.2.  Delegation of the IETF Chair Role
+   3.  Security Considerations
+   4.  IANA Considerations
+   5.  Acknowledgments
+   6.  References
+     6.1.  Normative References
+     6.2.  Informative References
+   Author's Address
+
+1.  Introduction
+
+   The role of the IETF Chair is a single point of failure for the
+   organization, with no defined processes for allowing others to
+   quickly and/or temporarily take over aspects of the role if the IETF
+   Chair becomes partially or fully unable to serve.  (The defined
+   process is that for "mid-term vacancies" per Section 3.5 of
+   [RFC8713], which can take up to six weeks to complete and only allows
+   for the permanent replacement of the IETF Chair by another
+   individual.)
+
+2.  Stand-In
+
+   This section describes who may stand in for the IETF Chair if they
+   become indisposed.
+
+2.1.  Background
+
+   As described in Section 1, the IETF Chair role is at the moment a
+   single point of failure for the organization.  If the IETF Chair
+   becomes indisposed, a recall petition followed by executing a "mid-
+   term vacancy" replacement would need to be executed to name a new
+   IETF Chair.  This process will likely take several weeks at best,
+   during which time there is no defined stand-in for the IETF Chair.
+
+      |  Section 7.1.1 of [RFC8713] currently prevents NomCom-ineligible
+      |  IETF participants from being signatories on recall petitions.
+      |  This includes anyone serving in a NomCom-selected role.  This
+      |  could be an issue, since IESG, IAB and LLC Board members may be
+      |  first-hand witnesses to reasons that would merit an IETF Chair
+      |  recall, but they are currently unable to initiate one directly.
+
+2.2.  Delegation of the IETF Chair Role
+
+   This document proposes that the IETF Chair, at their sole discretion,
+   designates and announces another Area Director as their stand-in
+   immediately upon being seated and at anytime afterward in case
+   changes need to be made.  In case the IETF Chair becomes indisposed,
+   the stand-in will automatically and immediately assume the role of
+   the IETF Chair.  This delegation ends as soon as the NomCom appoints
+   a new IETF Chair or the IETF Chair is available again.
+
+   If the IETF Chair's absence is expected to be short, the stand-in
+   should choose to delay controversial decisions until the IETF Chair
+   is available again, while allowing other business to proceed.
+
+3.  Security Considerations
+
+   The usual security considerations [RFC3552] do not apply to this
+   document.
+
+4.  IANA Considerations
+
+   This document has no IANA actions.
+
+5.  Acknowledgments
+
+   These individuals suggested improvements to this document:
+
+   *  Alvaro Retana
+
+   *  Brian Carpenter
+
+   *  Jari Arkko
+
+6.  References
+
+6.1.  Normative References
+
+   [RFC8713]  Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
+              Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
+              Confirmation, and Recall Process: Operation of the IETF
+              Nominating and Recall Committees", BCP 10, RFC 8713,
+              DOI 10.17487/RFC8713, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8713>.
+
+6.2.  Informative References
+
+   [RFC3552]  Rescorla, E. and B. Korver, "Guidelines for Writing RFC
+              Text on Security Considerations", BCP 72, RFC 3552,
+              DOI 10.17487/RFC3552, July 2003,
+              <https://www.rfc-editor.org/rfc/rfc3552>.
+
+Author's Address
+
+   Lars Eggert (editor)
+   Mozilla
+   Stenbergintie 12 B
+   FI-02700 Kauniainen
+   Finland
+   Email: lars@eggert.org
+   URI:   https://eggert.org/
